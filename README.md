@@ -1,1 +1,1 @@
-# tensorflow-jupyter-gpu
+# caffe2-tutorials-gpu
