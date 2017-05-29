@@ -7,7 +7,7 @@ memory:
   limits: "16Gi"
 serviceType: ClusterIP
 image:
-  Name: lsheiba/caffe2-tutorials-gpu
+  Name: lsheiba/caffe2-gpu-tutorial-2
   Tag: latest
 persistence:
     enabled: true
