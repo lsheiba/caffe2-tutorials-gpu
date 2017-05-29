@@ -1,4 +1,4 @@
-2name: caffe2-tutorials-gpu
+name: caffe2-tutorials-gpu
 home: https://github.com/lsheiba/caffe2-tutorials-gpu.git
 version: 1.0.0
 description: Caffe2 Jupyter Notebook with Tutorials and GPU support
